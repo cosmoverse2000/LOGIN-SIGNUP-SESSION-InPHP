@@ -1,5 +1,6 @@
 # LOGIN-SIGNUP-SESSION-InPHP
 
+EDIT:::::::::::DO GIT CLONE CHANGE ALL LOGIN TO INDEX TO GET DEPLOYED TO GITPAGES::::::::::::::::::::::::::
 To Test This Project
 
 👉Download Zip File
